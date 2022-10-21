@@ -1,0 +1,9 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/check-dokka/[root]/index.html
+$dokka.location://main/#kotlin.Array[kotlin.String]/PointingToDeclaration/check-dokka/[root]/main.html
+$dokka.location:/ClassWithDocs///PointingToDeclaration/check-dokka/[root]/-class-with-docs/index.html
+$dokka.location:/ClassWithDocs/ClassWithDocs/#/PointingToDeclaration/check-dokka/[root]/-class-with-docs/-class-with-docs.html
+$dokka.location:/ClassWithDocs/someFun/#/PointingToDeclaration/check-dokka/[root]/-class-with-docs/some-fun.html
+
+
